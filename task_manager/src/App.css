@@ -30,7 +30,6 @@ body {
   margin-bottom: 30px;
 }
 
-/* ---------- Task Form ---------- */
 .task-form {
   display: flex;
   gap: 12px;
@@ -74,7 +73,6 @@ body {
   transform: scale(1.04);
 }
 
-/* ---------- Task List ---------- */
 .task-list {
   display: flex;
   flex-direction: column;
@@ -90,7 +88,6 @@ body {
   border-radius: 12px;
 }
 
-/* ---------- Task Item ---------- */
 .task-item {
   display: flex;
   justify-content: space-between;
@@ -130,7 +127,6 @@ body {
   cursor: pointer;
 }
 
-/* ---------- Delete Button ---------- */
 .delete-btn {
   background-color: #ef4444;
   color: #fff;
